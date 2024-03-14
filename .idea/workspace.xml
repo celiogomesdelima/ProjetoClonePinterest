@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1803eddc-e0d9-4604-896f-0291de8376a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/clonepinterest/templates/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/templates/perfil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Swap_Dolar_Pre_E3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clonepinterest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/comunidade.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/comunidade.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
