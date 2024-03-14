@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1803eddc-e0d9-4604-896f-0291de8376a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Beta_Hedge_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Celio_Gomes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/DSC_0150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Exemplo_BBAS3_-_Garantia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Futuro_de_dolar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/Futuro_de_dolar_resultado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/InkedInkedanual-2024-01_LI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/static/fotos_posts/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/templates/feed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clonepinterest/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/templates/criarconta.html" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/templates/criarconta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clonepinterest/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/templates/homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clonepinterest/templates/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/clonepinterest/templates/perfil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/comunidade.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/comunidade.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
